@@ -2,4 +2,4 @@
 
 | Name        | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
+| krishna      | I love watching anime, and i love drinking coffee everytime i get a chance to |
