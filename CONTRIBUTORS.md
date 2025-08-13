@@ -2,4 +2,5 @@
 
 | Name        | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
+| AMITHA NAIR      | I love TEA, but I occasionally cheat on it with some COFFE
+|
