@@ -2,4 +2,5 @@
 
 | Name        | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
+| Naveen    | I love coffee, but I occasionally cheat on it with some tea |
+| Harshita| I love to draw |
