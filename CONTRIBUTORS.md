@@ -2,5 +2,4 @@
 
 | Name        | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
-| Nishtha | I am very rich |
+|siddarth      | I love playing free fire , and i am region grand master player in free fire  |
