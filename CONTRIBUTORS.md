@@ -1,5 +1,5 @@
 # Make your work permanent
 
-| Name        | Random fact about yourself     |
+|name       | Random fact about yourself     |
 |-------------|--------|
-| Naveen      | I love coffee, but I occasionally cheat on it with some tea |
+DEVANANDA ANIL   | I love watching movies ,
